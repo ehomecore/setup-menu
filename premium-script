@@ -179,7 +179,8 @@ log-install
 elif test $x -eq 39; then
 listpassword
 elif test $x -eq 40; then
-wget
+wget http://insomnet4u.me/centos6v/script/premium-script.sh
+else
 echo "Pilihan Tidak Terdapat Di Menu."
 exit
 fi
