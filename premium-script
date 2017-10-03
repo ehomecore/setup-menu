@@ -179,7 +179,7 @@ log-install
 elif test $x -eq 39; then
 listpassword
 elif test $x -eq 40; then
-wget https://insomnet4u.me/centos6v/script/premium-script
+wget https://raw.githubusercontent.com/ehomecore/setup-menu/master/premium-script
 else
 echo "Pilihan Tidak Terdapat Di Menu."
 exit
