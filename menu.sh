@@ -20,8 +20,8 @@ END3
 
 cd /usr/local/bin
 wget -O premium-script.tar.gz "https://raw.githubusercontent.com/ehomecore/setup-menu/master/allcode.tar.gz"
-tar -xvf premium-script.tar.gz
-rm -f premium-script.tar.gz
+tar -xvf allcode.tar.gz.tar.gz
+rm -f allcode.tar.gz.tar.gz
 
 cp /usr/local/bin/premium-script /usr/local/bin/menu
 
